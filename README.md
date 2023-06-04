@@ -32,3 +32,6 @@ This code was developed based on the following resources:
     Matplotlib documentation
     Scikit-learn documentation
 
+
+![sample image output](https://github.com/thehamzza/DIP-Project-Plus-Sign-Detection/assets/45312947/f9f310f6-9c8c-4705-80d4-5f8e74a875e3)
+
